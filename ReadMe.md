@@ -1,21 +1,10 @@
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 3 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
 # Project Title 
 WIFO-Modell DEIO (Dynamic Econometric Input-Output)
 
----
-# Project Description
 This file provides:  
-	a) instructions on how to use the DEIO-Shiny App, and  
-	b) a concise description of the underlying R code.
-	c) a brief overview of the WIFO-DEIO Model and its structure,  
+1. instructions on how to use the DEIO-Shiny App,  
+2. a description of the underlying R code, and
+3. a brief overview of the WIFO-DEIO Model and its structure
 
 ---
 # Use of Shiny App
